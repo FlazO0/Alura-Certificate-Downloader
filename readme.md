@@ -6,19 +6,19 @@ Este projeto é uma ferramenta automatizada desenvolvida em Node.js que permite 
 ---
 
 ### **Instalação e Configuração**
-1. **Pré-requisitos**:
+ **Pré-requisitos**:
    - Node.js (versão 14 ou superior).
    - Biblioteca Puppeteer.
    - Biblioteca Archiver.
    - Biblioteca Chalk.
+   - Biblioteca Readline.
 
-2. **Instale as dependências**:
-   ```bash
-   npm install
-   ```
-
-3. **Como executar**:
+ **Como executar**:
    - Clone este repositório.
+   - Instale as dependências:
+     ```bash
+     npm install
+     ```
    - Execute o comando:
      ```bash
      node index.js
